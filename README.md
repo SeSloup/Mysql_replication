@@ -18,18 +18,18 @@ master-master - пишут оба, повторяют друг за другом
 
 
 `Запуск и создание docker_run.sh`
-[docker_run.sh](https://github.com/SeSloup/)
+[docker_run.sh](https://github.com/SeSloup/Mysql_replication/blob/main/docker_run.sh) 
 
 
-![00](https://github.com/SeSloup/DB_indexes/blob/main/screens/00.png)
+![00](https://github.com/SeSloup/Mysql_replication/blob/main/screens/00.png)
 
-![01](https://github.com/SeSloup/DB_indexes/blob/main/screens/00.png)
+![01](https://github.com/SeSloup/Mysql_replication/blob/main/screens/01.png)
 
-![02](https://github.com/SeSloup/DB_indexes/blob/main/screens/00.png)
+![02](https://github.com/SeSloup/Mysql_replication/blob/main/screens/02.png)
 
-![03](https://github.com/SeSloup/DB_indexes/blob/main/screens/00.png)
+![03](https://github.com/SeSloup/Mysql_replication/blob/main/screens/03.png)
 
-![04](https://github.com/SeSloup/DB_indexes/blob/main/screens/00.png)
+![04](https://github.com/SeSloup/Mysql_replication/blob/main/screens/04.png)
 
 -----------------------------------------
 
